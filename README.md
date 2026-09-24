@@ -4,6 +4,8 @@ A small **3D slot machine game created in Unreal Engine using C++**.
 
 The project was created as an Unreal Engine programming exercise.
 
+![FlyingSaws Start](media/flyingSaws_start.gif)
+
 ## Features
 
 * Interactive 3D slot machine
@@ -16,6 +18,8 @@ The project was created as an Unreal Engine programming exercise.
 * Smooth camera transitions between menu and gameplay
 * Sound effects and background music
 * Interactive 3D elements reacting to mouse input
+
+![FlyingSaws Reward](media/flyingSaws_reward.gif)
 
 ## Technologies
 
@@ -41,6 +45,8 @@ The game is primarily controlled using the mouse.
 * Use the menu buttons to start or quit the game
 * Hover over interactive objects to trigger their interactions
 
+![FlyingSaws Rules](media/flyingSaws_rules.gif)
+
 ## Technical Features
 
 Exaples of gameplay systems implemented in C++:
@@ -53,6 +59,8 @@ Exaples of gameplay systems implemented in C++:
 * UMG widgets controlled from C++
 * Mouse click and hover interactions
 * Runtime audio playback and pitch variation
+
+![FlyingSaws Saws](media/flyingSaws_saws.gif)
 
 ## Possible Improvements
 
